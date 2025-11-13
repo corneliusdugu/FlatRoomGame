@@ -1,0 +1,14 @@
+/Users/corneliusdugu/FlatRoomGame/bin/Debug/net8.0/FlatRoomGame
+/Users/corneliusdugu/FlatRoomGame/bin/Debug/net8.0/FlatRoomGame.deps.json
+/Users/corneliusdugu/FlatRoomGame/bin/Debug/net8.0/FlatRoomGame.runtimeconfig.json
+/Users/corneliusdugu/FlatRoomGame/bin/Debug/net8.0/FlatRoomGame.dll
+/Users/corneliusdugu/FlatRoomGame/bin/Debug/net8.0/FlatRoomGame.pdb
+/Users/corneliusdugu/FlatRoomGame/obj/Debug/net8.0/FlatRoomGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/corneliusdugu/FlatRoomGame/obj/Debug/net8.0/FlatRoomGame.AssemblyInfoInputs.cache
+/Users/corneliusdugu/FlatRoomGame/obj/Debug/net8.0/FlatRoomGame.AssemblyInfo.cs
+/Users/corneliusdugu/FlatRoomGame/obj/Debug/net8.0/FlatRoomGame.csproj.CoreCompileInputs.cache
+/Users/corneliusdugu/FlatRoomGame/obj/Debug/net8.0/FlatRoomGame.dll
+/Users/corneliusdugu/FlatRoomGame/obj/Debug/net8.0/refint/FlatRoomGame.dll
+/Users/corneliusdugu/FlatRoomGame/obj/Debug/net8.0/FlatRoomGame.pdb
+/Users/corneliusdugu/FlatRoomGame/obj/Debug/net8.0/FlatRoomGame.genruntimeconfig.cache
+/Users/corneliusdugu/FlatRoomGame/obj/Debug/net8.0/ref/FlatRoomGame.dll
