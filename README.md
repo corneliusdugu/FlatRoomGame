@@ -4,7 +4,7 @@ This repo is the starter project for the assessment. It contains only a Program.
 
 Note:
 
-Run - dotnet run to start the program in the termial.
+Run - dotnet run to start the program in the terminal.
 
 
 Test - dotnet test to test the program in the terminal.
